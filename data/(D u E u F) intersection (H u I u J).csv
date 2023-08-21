@@ -1,0 +1,749 @@
+Change, Chromosome, Minimum, Maximum, Variant Frequency, Polymorphism Type, Amino Acid Change, CDS, CDS Codon Number, Protein Effect
+C -> T, 1, 1629118, 1629118, 1.0, SNP (transition), , CDS, 882, None
+A -> T, 1, 1691390, 1691390, 1.0, SNP (transversion), , CDS, 507, None
+A -> G, 1, 1764025, 1764025, 1.0, SNP (transition), I -> V, CDS, 79, Substitution
+G -> T, 1, 1767129, 1767129, 1.0, SNP (transversion), K -> N, CDS, 106, Substitution
+A -> G, 1, 2282973, 2282973, 1.0, SNP (transition), , CDS, 2199, None
+T -> C, 1, 2286546, 2286546, 1.0, SNP (transition), , CDS, 2030, None
+C -> A, 1, 117631, 117631, 0.993, SNP (transversion), , CDS, 613, None
+A -> G, 1, 1767042, 1767042, 1.0, SNP (transition), , CDS, 77, None
+A -> G, 1, 1767046, 1767046, 1.0, SNP (transition), I -> V, CDS, 79, Substitution
+G -> T, 1, 1842485, 1842485, 0.996, SNP (transversion), , , , 
+T -> C, 1, 2286469, 2286469, 1.0, SNP (transition), D -> G, CDS, 2056, Substitution
+C -> T, 1, 1478081, 1478081, 1.0, SNP (transition), A -> T, CDS, 434, Substitution
+T -> C, 1, 1780320, 1780320, 0.995, SNP (transition), , , , 
+T -> C, 1, 1788868, 1788868, 1.0, SNP (transition), , CDS, 77, None
+T -> C, 1, 113883, 113883, 1.0, SNP (transition), , , , 
+T -> C, 1, 1784033, 1784033, 0.995, SNP (transition), R -> G, CDS, 682, Substitution
+C -> T, 1, 1842355, 1842355, 0.995, SNP (transition), , , , 
+A -> C, 1, 115511, 115511, 0.994, SNP (transversion), , CDS, 1099, None
+A -> G, 1, 2283050, 2283050, 0.996, SNP (transition), D -> G, CDS, 2225, Substitution
+G -> T, 1, 1691265, 1691265, 0.994, SNP (transversion), V -> L, CDS, 466, Substitution
+C -> T, 1, 1842323, 1842323, 1.0, SNP (transition), , , , 
+A -> G, 1, 1764021, 1764021, 0.996, SNP (transition), , CDS, 77, None
+G -> C, 1, 1691363, 1691363, 0.994, SNP (transversion), L -> F, CDS, 498, Substitution
+A -> G, 1, 1762827, 1762827, 0.995, SNP (transition), , CDS, 685, None
+T -> C, 1, 1762188, 1762188, 0.997, SNP (transition), , CDS, 472, None
+C -> T, 1, 1764093, 1764093, 1.0, SNP (transition), , CDS, 101, None
+G -> C, 1, 2106011, 2106011, 1.0, SNP (transversion), , , , 
+C -> T, 1, 1691852, 1691852, 0.974, SNP (transition), , CDS, 661, None
+T -> C, 1, 1788864, 1788864, 0.994, SNP (transition), I -> V, CDS, 79, Substitution
+G -> A, 1, 1769370, 1769370, 1.0, SNP (transition), , , , 
+T -> G, 1, 1842326, 1842326, 0.992, SNP (transversion), , , , 
+C -> T, 1, 1691253, 1691253, 0.994, SNP (transition), H -> Y, CDS, 462, Substitution
+A -> T, 1, 1842427, 1842427, 0.996, SNP (transversion), , , , 
+G -> C, 1, 1762802, 1762802, 1.0, SNP (transversion), S -> T, CDS, 677, Substitution
+A -> G, 1, 1764134, 1764134, 0.99, SNP (transition), D -> G, CDS, 115, Substitution
+G -> T, 1, 1842388, 1842388, 0.996, SNP (transversion), , , , 
+G -> A, 1, 1692042, 1692042, 1.0, SNP (transition), , , , 
+T -> A, 1, 113855, 113855, 0.984, SNP (transversion), , , , 
+T -> G, 1, 1689642, 1689642, 0.991, SNP (transversion), , , , 
+T -> A, 1, 129018, 129018, 1.0, SNP (transversion), , , , 
+A -> G, 1, 1842384, 1842384, 0.996, SNP (transition), , , , 
+C -> T, 1, 2871378, 2871378, 0.994, SNP (transition), S -> L, CDS, 70, Substitution
+G -> A, 1, 1692020, 1692020, 1.0, SNP (transition), , , , 
+T -> A, 1, 1786558, 1786558, 0.882, SNP (transversion), K -> I, CDS, 837, Substitution
+C -> T, 1, 1786551, 1786551, 0.88, SNP (transition), , CDS, 839, None
+A -> T, 1, 1786550, 1786550, 0.879, SNP (transversion), , , , 
+C -> A, 1, 1786564, 1786564, 0.872, SNP (transversion), S -> I, CDS, 835, Substitution
+T -> A, 1, 1783540, 1783540, 0.873, SNP (transversion), K -> I, CDS, 846, Substitution
+C -> A, 1, 1783546, 1783546, 0.883, SNP (transversion), S -> I, CDS, 844, Substitution
+T -> C, 1, 1672163, 1672163, 0.83, SNP (transition), , , , 
+A -> T, 1, 1783532, 1783532, 0.861, SNP (transversion), , , , 
+C -> T, 1, 1783533, 1783533, 0.866, SNP (transition), , CDS, 848, None
+T -> A, 1, 1629299, 1629299, 0.818, SNP (transversion), E -> V, CDS, 822, Substitution
+C -> T, 1, 1629296, 1629296, 0.816, SNP (transition), G -> E, CDS, 823, Substitution
+C -> T, 1, 1629254, 1629254, 0.993, SNP (transition), R -> Q, CDS, 837, Substitution
+A -> C, 1, 1629339, 1629339, 0.811, SNP (transversion), S -> A, CDS, 809, Substitution
+T -> C, 1, 1629340, 1629340, 0.81, SNP (transition), , CDS, 808, None
+T -> C, 1, 1629343, 1629343, 0.806, SNP (transition), , CDS, 807, None
+T -> A, 1, 1780512, 1780512, 0.833, SNP (transversion), K -> I, CDS, 849, Substitution
+C -> A, 1, 1780518, 1780518, 0.854, SNP (transversion), S -> I, CDS, 847, Substitution
+G -> A, 1, 1629196, 1629196, 0.996, SNP (transition), , CDS, 856, None
+T -> C, 1, 1629286, 1629286, 0.782, SNP (transition), , CDS, 826, None
+A -> C, 1, 1629285, 1629285, 0.781, SNP (transversion), S -> A, CDS, 827, Substitution
+C -> T, 1, 1629350, 1629350, 0.78, SNP (transition), G -> E, CDS, 805, Substitution
+T -> C, 1, 1629289, 1629289, 0.784, SNP (transition), , CDS, 825, None
+C -> T, 1, 1780505, 1780505, 0.84, SNP (transition), , CDS, 851, None
+A -> T, 1, 1780504, 1780504, 0.84, SNP (transversion), , , , 
+G -> C, 1, 1759501, 1759501, 0.979, SNP (transversion), D -> H, CDS, 584, Substitution
+A -> G, 1, 1759492, 1759492, 0.99, SNP (transition), S -> G, CDS, 581, Substitution
+T -> A, 1, 1771562, 1771562, 0.643, SNP (transversion), F -> Y, CDS, 579, Substitution
+C -> T, 1, 2282520, 2282520, 0.607, SNP (transition), , CDS, 2048, None
+A -> G, 1, 128502, 128502, 0.697, SNP (transition), , , , 
+A -> C, 1, 1629393, 1629393, 0.57, SNP (transversion), S -> A, CDS, 791, Substitution
+T -> C, 1, 1629394, 1629394, 0.558, SNP (transition), , CDS, 790, None
+T -> C, 1, 1629397, 1629397, 0.539, SNP (transition), , CDS, 789, None
+A -> G, 1, 1780639, 1780639, 0.509, SNP (transition), S -> P, CDS, 807, Substitution
+A -> T, 1, 1789572, 1789572, 0.603, SNP (transversion), , , , 
+C -> T, 1, 1789573, 1789573, 0.607, SNP (transition), , CDS, 848, None
+T -> A, 1, 1789580, 1789580, 0.587, SNP (transversion), K -> I, CDS, 846, Substitution
+A -> T, 1, 1770867, 1770867, 0.474, SNP (transversion), , CDS, 347, None
+C -> A, 1, 1789586, 1789586, 0.564, SNP (transversion), S -> I, CDS, 844, Substitution
+T -> C, 1, 1766203, 1766203, 0.475, SNP (transition), S -> P, CDS, 805, Substitution
+T -> C, 1, 1770891, 1770891, 0.478, SNP (transition), , CDS, 355, None
+G -> A, 1, 1770887, 1770887, 0.452, SNP (transition), R -> H, CDS, 354, Substitution
+G -> A, 1, 2282847, 2282847, 0.545, SNP (transition), , CDS, 2157, None
+A -> T, 1, 1778285, 1778285, 0.427, SNP (transversion), F -> Y, CDS, 582, Substitution
+G -> A, 1, 1778266, 1778266, 0.5, SNP (transition), , CDS, 588, None
+G -> A, 1, 1770289, 1770289, 0.624, SNP (transition), D -> N, CDS, 155, Substitution
+G -> A, 1, 1770895, 1770895, 0.434, SNP (transition), E -> K, CDS, 357, Substitution
+C -> T, 1, 1629404, 1629404, 0.399, SNP (transition), G -> E, CDS, 787, Substitution
+A -> T, 1, 123451, 123451, 0.397, SNP (transversion), L -> I, CDS, 510, Substitution
+A -> G, 1, 127148, 127148, 0.389, SNP (transition), , CDS, 391, None
+A -> T, 1, 127163, 127163, 0.389, SNP (transversion), L -> I, CDS, 386, Substitution
+A -> G, 1, 123436, 123436, 0.387, SNP (transition), , CDS, 515, None
+A -> G, 1, 1786685, 1786685, 0.44, SNP (transition), S -> P, CDS, 795, Substitution
+T -> A, 1, 130580, 130580, 0.385, SNP (transversion), I -> F, CDS, 385, Substitution
+T -> A, 1, 123475, 123475, 0.389, SNP (transversion), I -> F, CDS, 502, Substitution
+G -> A, 1, 123500, 123500, 0.389, SNP (transition), , CDS, 493, None
+G -> A, 1, 130605, 130605, 0.393, SNP (transition), , CDS, 376, None
+T -> G, 1, 127208, 127208, 0.364, SNP (transversion), K -> Q, CDS, 371, Substitution
+C -> T, 1, 2286672, 2286672, 0.6, SNP (transition), , CDS, 1988, None
+G -> A, 1, 127212, 127212, 0.359, SNP (transition), , CDS, 369, None
+C -> T, 1, 130587, 130587, 0.368, SNP (transition), , CDS, 382, None
+T -> G, 1, 130601, 130601, 0.371, SNP (transversion), K -> Q, CDS, 378, Substitution
+A -> G, 1, 1783667, 1783667, 0.439, SNP (transition), S -> P, CDS, 804, Substitution
+A -> G, 1, 125158, 125158, 0.43, SNP (transition), , , , 
+C -> T, 1, 123482, 123482, 0.386, SNP (transition), , CDS, 499, None
+T -> G, 1, 123496, 123496, 0.377, SNP (transversion), K -> Q, CDS, 495, Substitution
+T -> A, 1, 127187, 127187, 0.35, SNP (transversion), I -> F, CDS, 378, Substitution
+G -> A, 1, 129354, 129354, 0.35, SNP (transition), , , , 
+C -> T, 1, 127194, 127194, 0.345, SNP (transition), , CDS, 375, None
+G -> A, 1, 2286999, 2286999, 0.515, SNP (transition), , CDS, 1879, None
+G -> A, 1, 122285, 122285, 0.38, SNP (transition), , , , 
+A -> G, 1, 130541, 130541, 0.352, SNP (transition), , CDS, 398, None
+A -> T, 1, 130556, 130556, 0.396, SNP (transversion), L -> I, CDS, 393, Substitution
+G -> A, 1, 125961, 125961, 0.354, SNP (transition), , , , 
+C -> T, 1, 3133560, 3133560, 0.336, SNP (transition), , , , 
+C -> T, 1, 1791066, 1791066, 0.382, SNP (transition), D -> N, CDS, 351, Substitution
+A -> G, 1, 44031, 44031, 0.271, SNP (transition), , CDS, 1228, None
+A -> C, 2, 43826, 43826, 1.0, SNP (transversion), I -> R, CDS, 134, Substitution
+T -> C, 2, 1539498, 1539498, 1.0, SNP (transition), , , , 
+G -> C, 2, 1558680, 1558680, 1.0, SNP (transversion), , , , 
+C -> T, 2, 1564085, 1564085, 1.0, SNP (transition), , , , 
+T -> C, 2, 1564095, 1564095, 1.0, SNP (transition), , , , 
+C -> G, 2, 1566681, 1566681, 1.0, SNP (transversion), , , , 
+G -> C, 2, 1558135, 1558135, 0.996, SNP (transversion), , , , 
+A -> C, 2, 1564094, 1564094, 1.0, SNP (transversion), , , , 
+C -> A, 2, 1566809, 1566809, 1.0, SNP (transversion), , , , 
+T -> C, 2, 1564058, 1564058, 1.0, SNP (transition), , , , 
+C -> A, 2, 1564067, 1564067, 1.0, SNP (transversion), , , , 
+T -> G, 2, 396729, 396729, 1.0, SNP (transversion), H -> P, CDS, 568, Substitution
+C -> T, 2, 43862, 43862, 1.0, SNP (transition), G -> D, CDS, 122, Substitution
+G -> C, 2, 1358693, 1358693, 0.991, SNP (transversion), , , , 
+A -> G, 2, 1564060, 1564060, 1.0, SNP (transition), , , , 
+G -> A, 2, 537596, 537596, 0.995, SNP (transition), , , , 
+G -> T, 2, 1558124, 1558124, 0.995, SNP (transversion), , , , 
+A -> G, 2, 1566942, 1566942, 1.0, SNP (transition), , , , 
+A -> T, 2, 1558067, 1558067, 0.993, SNP (transversion), , , , 
+T -> A, 2, 1557819, 1557819, 1.0, SNP (transversion), , , , 
+A -> G, 2, 829243, 829243, 0.947, SNP (transition), R -> G, CDS, 948, Substitution
+T -> G, 2, 1566535, 1566535, 0.83, SNP (transversion), , , , 
+G -> A, 2, 1558657, 1558657, 1.0, SNP (transition), , , , 
+G -> A, 2, 1556938, 1556938, 0.827, SNP (transition), , , , 
+G -> C, 2, 1558653, 1558653, 1.0, SNP (transversion), , , , 
+A -> C, 2, 1566536, 1566536, 0.823, SNP (transversion), , , , 
+A -> C, 2, 1566537, 1566537, 0.823, SNP (transversion), , , , 
+G -> A, 2, 1566549, 1566549, 0.776, SNP (transition), , , , 
+A -> G, 2, 1558630, 1558630, 1.0, SNP (transition), , , , 
+A -> T, 2, 1566621, 1566621, 0.798, SNP (transversion), , , , 
+C -> T, 2, 1566620, 1566620, 0.78, SNP (transition), , , , 
+A -> C, 2, 1571872, 1571872, 0.79, SNP (transversion), , , , 
+A -> G, 2, 1587081, 1587081, 0.943, SNP (transition), , , , 
+C -> T, 2, 43760, 43760, 0.995, SNP (transition), S -> N, CDS, 156, Substitution
+G -> C, 2, 1556927, 1556927, 0.73, SNP (transversion), , , , 
+T -> C, 2, 1556921, 1556921, 0.693, SNP (transition), , , , 
+G -> C, 2, 1556920, 1556920, 0.687, SNP (transversion), , , , 
+C -> T, 2, 1576972, 1576972, 0.745, SNP (transition), , , , 
+T -> C, 2, 1556911, 1556911, 0.65, SNP (transition), , , , 
+T -> C, 2, 43569, 43569, 0.628, SNP (transition), N -> D, CDS, 220, Substitution
+C -> G, 2, 43584, 43584, 0.586, SNP (transversion), E -> Q, CDS, 215, Substitution
+T -> C, 2, 43581, 43581, 0.583, SNP (transition), N -> D, CDS, 216, Substitution
+C -> T, 2, 1556899, 1556899, 0.59, SNP (transition), , , , 
+G -> C, 2, 1576899, 1576899, 0.826, SNP (transversion), , , , 
+A -> T, 2, 1564674, 1564674, 0.574, SNP (transversion), , , , 
+A -> T, 2, 1564962, 1564962, 0.745, SNP (transversion), , , , 
+A -> C, 2, 1571746, 1571746, 0.499, SNP (transversion), , , , 
+T -> C, 2, 43642, 43642, 0.591, SNP (transition), , CDS, 195, None
+A -> G, 2, 1568518, 1568518, 0.476, SNP (transition), , , , 
+C -> T, 2, 1568517, 1568517, 0.464, SNP (transition), , , , 
+C -> T, 2, 1568513, 1568513, 0.427, SNP (transition), , , , 
+C -> A, 2, 1571789, 1571789, 0.421, SNP (transversion), , , , 
+T -> C, 2, 28144, 28144, 0.395, SNP (transition), , , , 
+A -> T, 2, 28146, 28146, 0.39, SNP (transversion), , , , 
+T -> C, 2, 1568503, 1568503, 0.385, SNP (transition), , , , 
+C -> T, 2, 28148, 28148, 0.379, SNP (transition), , , , 
+A -> G, 2, 1575227, 1575227, 0.372, SNP (transition), , , , 
+G -> C, 2, 1568496, 1568496, 0.353, SNP (transversion), , , , 
+A -> G, 2, 28153, 28153, 0.351, SNP (transition), , , , 
+C -> T, 2, 1568487, 1568487, 0.338, SNP (transition), , , , 
+G -> A, 2, 1568494, 1568494, 0.333, SNP (transition), , , , 
+C -> T, 2, 28155, 28155, 0.338, SNP (transition), , , , 
+C -> A, 2, 1571917, 1571917, 0.508, SNP (transversion), , , , 
+G -> C, 2, 1568492, 1568492, 0.321, SNP (transversion), , , , 
+C -> G, 2, 1551903, 1551903, 0.32, SNP (transversion), , , , 
+G -> C, 2, 29318, 29318, 0.319, SNP (transversion), , , , 
+T -> C, 2, 1564879, 1564879, 0.484, SNP (transition), , , , 
+T -> C, 2, 1571797, 1571797, 0.388, SNP (transition), , , , 
+G -> A, 2, 28162, 28162, 0.399, SNP (transition), , , , 
+C -> G, 2, 1551923, 1551923, 0.293, SNP (transversion), , , , 
+T -> C, 2, 1571900, 1571900, 0.439, SNP (transition), , , , 
+T -> G, 2, 1551917, 1551917, 0.284, SNP (transversion), , , , 
+T -> A, 2, 29314, 29314, 0.278, SNP (transversion), , , , 
+A -> T, 2, 1587141, 1587141, 0.296, SNP (transversion), , , , 
+A -> C, 2, 28168, 28168, 0.366, SNP (transversion), , , , 
+A -> T, 3, 197618, 197618, 1.0, SNP (transversion), L -> H, CDS, 196, Substitution
+T -> C, 3, 16021, 16021, 1.0, SNP (transition), D -> G, CDS, 467, Substitution
+G -> C, 3, 1348208, 1348208, 0.991, SNP (transversion), , , , 
+G -> A, 3, 1348209, 1348209, 0.989, SNP (transition), , , , 
+T -> C, 3, 795543, 795543, 0.991, SNP (transition), , , , 
+C -> T, 3, 1304630, 1304630, 0.952, SNP (transition), , , , 
+A -> C, 3, 657618, 657618, 0.891, SNP (transversion), , CDS, 392, None
+T -> C, 3, 657621, 657621, 0.889, SNP (transition), , CDS, 391, None
+G -> A, 3, 657636, 657636, 0.893, SNP (transition), , CDS, 386, None
+C -> T, 3, 657610, 657610, 0.881, SNP (transition), G -> D, CDS, 395, Substitution
+G -> T, 3, 657633, 657633, 0.891, SNP (transversion), F -> L, CDS, 387, Substitution
+A -> G, 3, 1302647, 1302647, 0.906, SNP (transition), , , , 
+A -> T, 3, 1302715, 1302715, 0.789, SNP (transversion), , , , 
+C -> T, 3, 1280602, 1280602, 0.745, SNP (transition), , , , 
+A -> C, 3, 1279996, 1279996, 0.795, SNP (transversion), , , , 
+T -> A, 3, 1301061, 1301061, 0.805, SNP (transversion), , , , 
+A -> T, 3, 1277362, 1277362, 0.734, SNP (transversion), , , , 
+A -> G, 3, 1301054, 1301054, 0.769, SNP (transition), , , , 
+A -> G, 3, 1298029, 1298029, 0.731, SNP (transition), , , , 
+C -> T, 3, 1297216, 1297216, 0.837, SNP (transition), , , , 
+C -> T, 3, 1296724, 1296724, 0.729, SNP (transition), , , , 
+C -> T, 3, 1300018, 1300018, 0.775, SNP (transition), , , , 
+A -> C, 3, 1296897, 1296897, 0.628, SNP (transversion), , , , 
+A -> C, 3, 1299965, 1299965, 0.624, SNP (transversion), , , , 
+A -> T, 3, 1281094, 1281094, 0.638, SNP (transversion), , , , 
+A -> T, 3, 1293866, 1293866, 0.808, SNP (transversion), , , , 
+T -> A, 3, 1281449, 1281449, 0.691, SNP (transversion), , , , 
+A -> C, 3, 1305758, 1305758, 0.682, SNP (transversion), , , , 
+T -> A, 3, 1281438, 1281438, 0.749, SNP (transversion), , , , 
+A -> T, 3, 1277274, 1277274, 0.631, SNP (transversion), , , , 
+C -> T, 3, 1279961, 1279961, 0.615, SNP (transition), , , , 
+C -> T, 3, 1285193, 1285193, 0.693, SNP (transition), , , , 
+A -> T, 3, 1302503, 1302503, 0.954, SNP (transversion), , , , 
+A -> C, 3, 1300552, 1300552, 0.759, SNP (transversion), , , , 
+A -> C, 3, 1303445, 1303445, 0.637, SNP (transversion), , , , 
+C -> T, 3, 1296818, 1296818, 0.578, SNP (transition), , , , 
+C -> T, 3, 1305836, 1305836, 0.578, SNP (transition), , , , 
+G -> C, 3, 1285299, 1285299, 0.566, SNP (transversion), , , , 
+C -> A, 3, 1302634, 1302634, 0.644, SNP (transversion), , , , 
+G -> C, 3, 1297156, 1297156, 0.863, SNP (transversion), , , , 
+T -> A, 3, 1296708, 1296708, 0.653, SNP (transversion), , , , 
+C -> T, 3, 1272910, 1272910, 0.547, SNP (transition), , , , 
+C -> T, 3, 1270621, 1270621, 0.569, SNP (transition), , , , 
+A -> T, 3, 1297113, 1297113, 0.833, SNP (transversion), , , , 
+A -> T, 3, 1270650, 1270650, 0.542, SNP (transversion), , , , 
+T -> C, 3, 1302661, 1302661, 0.767, SNP (transition), , , , 
+C -> T, 3, 1277323, 1277323, 0.588, SNP (transition), , , , 
+T -> A, 3, 1300002, 1300002, 0.542, SNP (transversion), , , , 
+A -> T, 3, 1296979, 1296979, 0.536, SNP (transversion), , , , 
+A -> T, 3, 1265348, 1265348, 0.535, SNP (transversion), , , , 
+T -> C, 3, 1272830, 1272830, 0.535, SNP (transition), , , , 
+C -> T, 3, 1297385, 1297385, 0.531, SNP (transition), , , , 
+A -> T, 3, 1275613, 1275613, 0.542, SNP (transversion), , , , 
+T -> A, 3, 1281460, 1281460, 0.613, SNP (transversion), , , , 
+A -> C, 3, 1297366, 1297366, 0.518, SNP (transversion), , , , 
+C -> T, 3, 1281806, 1281806, 0.514, SNP (transition), , , , 
+C -> T, 3, 1300112, 1300112, 0.557, SNP (transition), , , , 
+G -> A, 3, 662587, 662587, 0.569, SNP (transition), , , , 
+C -> T, 3, 1297855, 1297855, 0.629, SNP (transition), , , , 
+C -> T, 3, 1271271, 1271271, 0.558, SNP (transition), , , , 
+C -> T, 3, 1277299, 1277299, 0.509, SNP (transition), , , , 
+A -> C, 3, 1300191, 1300191, 0.582, SNP (transversion), , , , 
+C -> T, 3, 1303449, 1303449, 0.526, SNP (transition), , , , 
+A -> C, 3, 1298251, 1298251, 0.611, SNP (transversion), , , , 
+A -> C, 3, 1282921, 1282921, 0.541, SNP (transversion), , , , 
+G -> C, 3, 1284765, 1284765, 0.614, SNP (transversion), , , , 
+C -> G, 3, 1281425, 1281425, 0.519, SNP (transversion), , , , 
+A -> C, 3, 1296671, 1296671, 0.578, SNP (transversion), , , , 
+C -> T, 3, 1303167, 1303167, 0.646, SNP (transition), , , , 
+A -> G, 3, 1270563, 1270563, 0.489, SNP (transition), , , , 
+C -> T, 3, 1285238, 1285238, 0.639, SNP (transition), , , , 
+C -> A, 3, 1303457, 1303457, 0.521, SNP (transversion), , , , 
+C -> T, 3, 1279118, 1279118, 0.612, SNP (transition), , , , 
+C -> T, 3, 1282200, 1282200, 0.542, SNP (transition), , , , 
+A -> G, 3, 1285154, 1285154, 0.712, SNP (transition), , , , 
+C -> T, 3, 1302441, 1302441, 0.572, SNP (transition), , , , 
+C -> T, 3, 1279107, 1279107, 0.647, SNP (transition), , , , 
+C -> T, 3, 1302597, 1302597, 0.847, SNP (transition), , , , 
+T -> C, 3, 1281410, 1281410, 0.6, SNP (transition), , , , 
+C -> T, 3, 1269943, 1269943, 0.616, SNP (transition), , , , 
+C -> T, 3, 1285160, 1285160, 0.725, SNP (transition), , , , 
+A -> C, 3, 1297892, 1297892, 0.605, SNP (transversion), , , , 
+C -> T, 3, 1271342, 1271342, 0.457, SNP (transition), , , , 
+T -> G, 3, 1303456, 1303456, 0.471, SNP (transversion), , , , 
+C -> T, 3, 1283504, 1283504, 0.46, SNP (transition), , , , 
+A -> C, 3, 1264920, 1264920, 0.517, SNP (transversion), , , , 
+C -> T, 3, 1304587, 1304587, 0.425, SNP (transition), , , , 
+T -> C, 3, 1282176, 1282176, 0.491, SNP (transition), , , , 
+C -> T, 3, 1298171, 1298171, 0.467, SNP (transition), , , , 
+C -> T, 3, 1271149, 1271149, 0.5, SNP (transition), , , , 
+A -> C, 3, 1278792, 1278792, 0.42, SNP (transversion), , , , 
+C -> T, 3, 1293907, 1293907, 0.419, SNP (transition), , , , 
+C -> T, 3, 1276502, 1276502, 0.674, SNP (transition), , , , 
+G -> C, 3, 1271100, 1271100, 0.622, SNP (transversion), , , , 
+C -> A, 3, 1301059, 1301059, 0.479, SNP (transversion), , , , 
+C -> T, 3, 1303123, 1303123, 0.43, SNP (transition), , , , 
+G -> C, 3, 1277590, 1277590, 0.54, SNP (transversion), , , , 
+G -> C, 3, 1297752, 1297752, 0.703, SNP (transversion), , , , 
+C -> T, 3, 1297140, 1297140, 0.737, SNP (transition), , , , 
+T -> C, 3, 1272899, 1272899, 0.467, SNP (transition), , , , 
+A -> T, 3, 1277351, 1277351, 0.41, SNP (transversion), , , , 
+C -> T, 3, 1271362, 1271362, 0.58, SNP (transition), , , , 
+C -> T, 3, 1271484, 1271484, 0.771, SNP (transition), , , , 
+G -> C, 3, 1277394, 1277394, 0.484, SNP (transversion), , , , 
+G -> C, 3, 1265459, 1265459, 0.641, SNP (transversion), , , , 
+A -> C, 3, 1278134, 1278134, 0.659, SNP (transversion), , , , 
+C -> T, 3, 1277378, 1277378, 0.386, SNP (transition), , , , 
+T -> C, 3, 1280078, 1280078, 0.398, SNP (transition), , , , 
+A -> C, 3, 1297773, 1297773, 0.472, SNP (transversion), , , , 
+G -> A, 3, 660874, 660874, 0.553, SNP (transition), , , , 
+A -> C, 3, 1271030, 1271030, 0.377, SNP (transversion), , , , 
+T -> C, 3, 1298235, 1298235, 0.591, SNP (transition), , , , 
+C -> T, 3, 1271298, 1271298, 0.433, SNP (transition), , , , 
+T -> C, 3, 1279887, 1279887, 0.539, SNP (transition), , , , 
+C -> T, 3, 1303230, 1303230, 0.573, SNP (transition), , , , 
+C -> T, 3, 1264794, 1264794, 0.52, SNP (transition), , , , 
+A -> T, 3, 1298243, 1298243, 0.589, SNP (transversion), , , , 
+A -> C, 3, 1271121, 1271121, 0.38, SNP (transversion), , , , 
+T -> A, 3, 1299984, 1299984, 0.467, SNP (transversion), , , , 
+A -> C, 3, 1269302, 1269302, 0.4, SNP (transversion), , , , 
+G -> C, 3, 1283364, 1283364, 0.882, SNP (transversion), , , , 
+C -> T, 3, 1282784, 1282784, 0.482, SNP (transition), , , , 
+C -> T, 3, 1298259, 1298259, 0.546, SNP (transition), , , , 
+A -> C, 3, 1264875, 1264875, 0.425, SNP (transversion), , , , 
+T -> C, 3, 1279726, 1279726, 0.799, SNP (transition), , , , 
+C -> A, 3, 1279782, 1279782, 0.409, SNP (transversion), , , , 
+A -> T, 3, 1297299, 1297299, 0.366, SNP (transversion), , , , 
+T -> C, 3, 1266967, 1266967, 0.425, SNP (transition), , , , 
+T -> A, 3, 1296690, 1296690, 0.535, SNP (transversion), , , , 
+A -> C, 3, 1277315, 1277315, 0.388, SNP (transversion), , , , 
+A -> T, 3, 1296793, 1296793, 0.49, SNP (transversion), , , , 
+C -> T, 3, 1302796, 1302796, 0.513, SNP (transition), , , , 
+T -> C, 3, 1297196, 1297196, 0.561, SNP (transition), , , , 
+C -> T, 3, 9244, 9244, 0.344, SNP (transition), A -> V, CDS, 399, Substitution
+C -> T, 3, 1279980, 1279980, 0.469, SNP (transition), , , , 
+A -> T, 3, 1278115, 1278115, 0.617, SNP (transversion), , , , 
+A -> C, 3, 1296404, 1296404, 0.341, SNP (transversion), , , , 
+C -> T, 3, 1303143, 1303143, 0.34, SNP (transition), , , , 
+T -> A, 3, 1278112, 1278112, 0.59, SNP (transversion), , , , 
+C -> T, 3, 1272026, 1272026, 0.451, SNP (transition), , , , 
+A -> T, 3, 1294304, 1294304, 0.456, SNP (transversion), , , , 
+T -> A, 3, 1294389, 1294389, 0.333, SNP (transversion), , , , 
+A -> C, 3, 1304579, 1304579, 0.414, SNP (transversion), , , , 
+C -> T, 3, 1265622, 1265622, 0.507, SNP (transition), , , , 
+C -> T, 3, 1271522, 1271522, 0.545, SNP (transition), , , , 
+T -> A, 3, 1272883, 1272883, 0.485, SNP (transversion), , , , 
+C -> T, 3, 1300560, 1300560, 0.525, SNP (transition), , , , 
+T -> A, 3, 1283522, 1283522, 0.329, SNP (transversion), , , , 
+A -> G, 3, 1275355, 1275355, 0.328, SNP (transition), , , , 
+A -> T, 3, 1272068, 1272068, 0.356, SNP (transversion), , , , 
+C -> T, 3, 1275782, 1275782, 0.359, SNP (transition), , , , 
+A -> C, 3, 1297177, 1297177, 0.326, SNP (transversion), , , , 
+A -> C, 3, 1272891, 1272891, 0.373, SNP (transversion), , , , 
+A -> T, 3, 1300488, 1300488, 0.512, SNP (transversion), , , , 
+C -> T, 3, 1305856, 1305856, 0.458, SNP (transition), , , , 
+C -> T, 3, 1285349, 1285349, 0.321, SNP (transition), , , , 
+A -> C, 3, 1283574, 1283574, 0.441, SNP (transversion), , , , 
+A -> G, 3, 1282450, 1282450, 0.7, SNP (transition), , , , 
+C -> G, 3, 9254, 9254, 0.35, SNP (transversion), F -> L, CDS, 402, Substitution
+C -> A, 3, 1283530, 1283530, 0.47, SNP (transversion), , , , 
+A -> G, 3, 1275838, 1275838, 0.457, SNP (transition), , , , 
+C -> T, 3, 1306082, 1306082, 0.524, SNP (transition), , , , 
+C -> T, 3, 1272239, 1272239, 0.464, SNP (transition), , , , 
+C -> A, 3, 1293874, 1293874, 0.356, SNP (transversion), , , , 
+C -> T, 3, 1279700, 1279700, 0.506, SNP (transition), , , , 
+T -> A, 3, 1270737, 1270737, 0.304, SNP (transversion), , , , 
+C -> T, 3, 1282587, 1282587, 0.347, SNP (transition), , , , 
+C -> A, 3, 1264831, 1264831, 0.303, SNP (transversion), , , , 
+T -> C, 3, 1297260, 1297260, 0.403, SNP (transition), , , , 
+C -> T, 3, 1293713, 1293713, 0.51, SNP (transition), , , , 
+T -> C, 3, 1265339, 1265339, 0.4, SNP (transition), , , , 
+C -> T, 3, 1277211, 1277211, 0.327, SNP (transition), , , , 
+A -> T, 3, 1298088, 1298088, 0.49, SNP (transversion), , , , 
+A -> C, 3, 1304534, 1304534, 0.347, SNP (transversion), , , , 
+C -> A, 3, 1264786, 1264786, 0.348, SNP (transversion), , , , 
+A -> C, 3, 1306120, 1306120, 0.455, SNP (transversion), , , , 
+A -> G, 3, 1280542, 1280542, 0.466, SNP (transition), , , , 
+C -> T, 3, 1300269, 1300269, 0.494, SNP (transition), , , , 
+C -> T, 3, 1275942, 1275942, 0.393, SNP (transition), , , , 
+T -> A, 3, 1280093, 1280093, 0.511, SNP (transversion), , , , 
+T -> C, 3, 1298000, 1298000, 0.572, SNP (transition), , , , 
+G -> A, 3, 9232, 9232, 0.314, SNP (transition), G -> D, CDS, 395, Substitution
+C -> T, 3, 1269286, 1269286, 0.413, SNP (transition), , , , 
+C -> T, 3, 1271511, 1271511, 0.673, SNP (transition), , , , 
+C -> T, 3, 1301168, 1301168, 0.434, SNP (transition), , , , 
+A -> T, 3, 1285591, 1285591, 0.613, SNP (transversion), , , , 
+C -> T, 3, 1296798, 1296798, 0.458, SNP (transition), , , , 
+T -> A, 3, 1298155, 1298155, 0.423, SNP (transversion), , , , 
+C -> T, 3, 1269267, 1269267, 0.323, SNP (transition), , , , 
+A -> G, 3, 1274944, 1274944, 0.456, SNP (transition), , , , 
+T -> A, 3, 1283642, 1283642, 0.391, SNP (transversion), , , , 
+A -> T, 3, 1277647, 1277647, 0.337, SNP (transversion), , , , 
+A -> T, 3, 1275602, 1275602, 0.293, SNP (transversion), , , , 
+A -> T, 3, 1283657, 1283657, 0.274, SNP (transversion), , , , 
+A -> T, 3, 1297708, 1297708, 0.542, SNP (transversion), , , , 
+C -> A, 3, 1270023, 1270023, 0.498, SNP (transversion), , , , 
+G -> A, 3, 1277161, 1277161, 0.29, SNP (transition), , , , 
+T -> C, 3, 1275629, 1275629, 0.31, SNP (transition), , , , 
+C -> T, 3, 1300289, 1300289, 0.453, SNP (transition), , , , 
+T -> G, 3, 1277160, 1277160, 0.268, SNP (transversion), , , , 
+T -> C, 3, 1282929, 1282929, 0.343, SNP (transition), , , , 
+A -> T, 3, 1300087, 1300087, 0.454, SNP (transversion), , , , 
+A -> T, 3, 1298100, 1298100, 0.474, SNP (transversion), , , , 
+A -> T, 3, 1282639, 1282639, 0.28, SNP (transversion), , , , 
+A -> T, 3, 1269240, 1269240, 0.546, SNP (transversion), , , , 
+T -> C, 3, 1282098, 1282098, 0.377, SNP (transition), , , , 
+C -> T, 3, 1283303, 1283303, 0.397, SNP (transition), , , , 
+C -> G, 3, 1296790, 1296790, 0.307, SNP (transversion), , , , 
+C -> T, 3, 1280060, 1280060, 0.331, SNP (transition), , , , 
+A -> T, 3, 1302536, 1302536, 0.322, SNP (transversion), , , , 
+C -> A, 3, 1303159, 1303159, 0.405, SNP (transversion), , , , 
+G -> T, 3, 1276091, 1276091, 0.292, SNP (transversion), , , , 
+C -> G, 3, 1300084, 1300084, 0.28, SNP (transversion), , , , 
+A -> T, 3, 1300228, 1300228, 0.343, SNP (transversion), , , , 
+C -> A, 3, 1277227, 1277227, 0.342, SNP (transversion), , , , 
+A -> C, 3, 1282568, 1282568, 0.276, SNP (transversion), , , , 
+A -> C, 3, 1300597, 1300597, 0.309, SNP (transversion), , , , 
+T -> C, 3, 1282512, 1282512, 0.68, SNP (transition), , , , 
+T -> A, 3, 1297705, 1297705, 0.519, SNP (transversion), , , , 
+G -> T, 4, 603896, 603896, 0.996, SNP (transversion), , , , 
+C -> T, 4, 51255, 51255, 0.995, SNP (transition), A -> T, CDS, 677, Substitution
+A -> T, 4, 1044743, 1044743, 0.995, SNP (transversion), , , , 
+A -> T, 4, 80832, 80832, 1.0, SNP (transversion), F -> Y, CDS, 732, Substitution
+G -> A, 4, 1007561, 1007561, 0.943, SNP (transition), A -> T, CDS, 20, Substitution
+A -> G, 4, 90450, 90450, 0.762, SNP (transition), , CDS, 2056, None
+C -> T, 4, 1042670, 1042670, 0.648, SNP (transition), , , , 
+C -> T, 4, 1042688, 1042688, 0.636, SNP (transition), , , , 
+C -> A, 4, 442214, 442214, 0.609, SNP (transversion), , , , 
+G -> C, 4, 1043277, 1043277, 0.782, SNP (transversion), , , , 
+T -> G, 4, 90569, 90569, 0.521, SNP (transversion), N -> H, CDS, 2017, Substitution
+G -> A, 4, 106779, 106779, 0.466, SNP (transition), , , , 
+A -> T, 4, 90576, 90576, 0.538, SNP (transversion), , CDS, 2014, None
+T -> C, 4, 106736, 106736, 0.479, SNP (transition), , , , 
+C -> T, 4, 90580, 90580, 0.542, SNP (transition), R -> Q, CDS, 2013, Substitution
+G -> T, 4, 106760, 106760, 0.459, SNP (transversion), , , , 
+T -> C, 4, 1042626, 1042626, 0.531, SNP (transition), , , , 
+C -> T, 4, 96770, 96770, 0.49, SNP (transition), R -> Q, CDS, 620, Substitution
+C -> T, 4, 3194, 3194, 0.396, SNP (transition), D -> N, CDS, 1597, Substitution
+A -> T, 4, 96766, 96766, 0.48, SNP (transversion), , CDS, 621, None
+A -> G, 4, 1041221, 1041221, 0.545, SNP (transition), , , , 
+T -> C, 4, 442002, 442002, 0.348, SNP (transition), , , , 
+T -> G, 4, 96759, 96759, 0.487, SNP (transversion), N -> H, CDS, 624, Substitution
+C -> T, 4, 1043350, 1043350, 0.513, SNP (transition), , , , 
+T -> C, 4, 1042218, 1042218, 0.347, SNP (transition), , , , 
+T -> C, 4, 1043316, 1043316, 0.464, SNP (transition), , , , 
+C -> T, 4, 1043414, 1043414, 0.312, SNP (transition), , , , 
+A -> C, 4, 1042234, 1042234, 0.431, SNP (transversion), , , , 
+G -> C, 5, 342637, 342637, 1.0, SNP (transversion), L -> F, CDS, 1475, Substitution
+C -> G, 5, 346296, 346296, 1.0, SNP (transversion), Q -> E, CDS, 2300, Substitution
+G -> A, 5, 346299, 346299, 1.0, SNP (transition), D -> N, CDS, 2301, Substitution
+A -> G, 5, 346292, 346292, 1.0, SNP (transition), I -> M, CDS, 2298, Substitution
+A -> C, 5, 346293, 346293, 1.0, SNP (transversion), N -> H, CDS, 2299, Substitution
+T -> G, 5, 339921, 339921, 0.991, SNP (transversion), N -> K, CDS, 721, Substitution
+C -> T, 5, 338526, 338526, 0.986, SNP (transition), , CDS, 256, None
+C -> T, 5, 70462, 70462, 1.0, SNP (transition), , CDS, 138, None
+A -> T, 5, 342664, 342664, 0.998, SNP (transversion), , CDS, 1484, None
+C -> T, 5, 339964, 339964, 0.99, SNP (transition), H -> Y, CDS, 736, Substitution
+G -> T, 5, 349452, 349452, 1.0, SNP (transversion), D -> Y, CDS, 2779, Substitution
+G -> A, 5, 344495, 344495, 1.0, SNP (transition), D -> N, CDS, 1898, Substitution
+A -> G, 5, 344488, 344488, 1.0, SNP (transition), I -> M, CDS, 1895, Substitution
+C -> G, 5, 344492, 344492, 1.0, SNP (transversion), Q -> E, CDS, 1897, Substitution
+C -> T, 5, 342508, 342508, 0.994, SNP (transition), , CDS, 1432, None
+C -> T, 5, 339945, 339945, 1.0, SNP (transition), , CDS, 729, None
+A -> C, 5, 344489, 344489, 1.0, SNP (transversion), N -> H, CDS, 1896, Substitution
+A -> G, 5, 339927, 339927, 0.989, SNP (transition), , CDS, 723, None
+C -> T, 5, 70450, 70450, 0.961, SNP (transition), , CDS, 134, None
+T -> C, 5, 70312, 70312, 0.98, SNP (transition), , CDS, 88, None
+C -> T, 5, 70315, 70315, 0.979, SNP (transition), , CDS, 89, None
+C -> T, 5, 70334, 70334, 0.966, SNP (transition), , CDS, 96, None
+C -> T, 5, 335549, 335549, 0.824, SNP (transition), , CDS, 412, None
+C -> T, 5, 70369, 70369, 0.987, SNP (transition), , CDS, 107, None
+T -> A, 5, 39803, 39803, 0.5, SNP (transversion), , , , 
+T -> C, 5, 348224, 348224, 0.982, SNP (transition), , , , 
+C -> T, 5, 348227, 348227, 0.994, SNP (transition), , , , 
+T -> C, 5, 348225, 348225, 1.0, SNP (transition), , , , 
+A -> G, 5, 39801, 39801, 0.452, SNP (transition), , , , 
+A -> G, 5, 348241, 348241, 0.994, SNP (transition), , , , 
+A -> G, 5, 348240, 348240, 0.987, SNP (transition), , , , 
+C -> T, 5, 348249, 348249, 0.982, SNP (transition), , , , 
+A -> G, 5, 342233, 342233, 0.367, SNP (transition), I -> V, CDS, 1341, Substitution
+A -> G, 5, 342232, 342232, 0.363, SNP (transition), , CDS, 1340, None
+G -> A, 5, 39766, 39766, 0.326, SNP (transition), , , , 
+A -> T, 5, 39762, 39762, 0.386, SNP (transversion), , , , 
+G -> A, 1, 1788796, 1788796, 0.994, SNP (transition), , CDS, 101, None
+A -> G, 1, 1691220, 1691220, 1.0, SNP (transition), T -> A, CDS, 451, Substitution
+T -> C, 1, 1783348, 1783348, 1.0, SNP (transition), , , , 
+C -> T, 1, 1691234, 1691234, 0.989, SNP (transition), , CDS, 455, None
+C -> T, 1, 1767114, 1767114, 0.996, SNP (transition), , CDS, 101, None
+G -> T, 1, 1764108, 1764108, 0.996, SNP (transversion), K -> N, CDS, 106, Substitution
+T -> C, 1, 1788755, 1788755, 1.0, SNP (transition), D -> G, CDS, 115, Substitution
+T -> C, 1, 1781005, 1781005, 0.991, SNP (transition), R -> G, CDS, 685, Substitution
+C -> T, 1, 1629091, 1629091, 0.988, SNP (transition), , CDS, 891, None
+G -> T, 1, 2490523, 2490523, 0.951, SNP (transversion), D -> Y, CDS, 309, Substitution
+G -> A, 1, 1585819, 1585819, 0.899, SNP (transition), A -> T, CDS, 844, Substitution
+G -> A, 1, 125490, 125490, 0.932, SNP (transition), , , , 
+A -> C, 1, 125491, 125491, 0.925, SNP (transversion), , , , 
+G -> T, 1, 125499, 125499, 0.904, SNP (transversion), , , , 
+A -> G, 1, 2875518, 2875518, 0.917, SNP (transition), , , , 
+T -> A, 1, 125494, 125494, 0.928, SNP (transversion), , , , 
+A -> G, 1, 125497, 125497, 0.919, SNP (transition), , , , 
+C -> T, 1, 125508, 125508, 0.848, SNP (transition), , , , 
+G -> A, 1, 125514, 125514, 0.801, SNP (transition), , , , 
+C -> G, 1, 125517, 125517, 0.788, SNP (transversion), , , , 
+G -> A, 1, 125523, 125523, 0.79, SNP (transition), , , , 
+C -> T, 1, 1691705, 1691705, 0.895, SNP (transition), , CDS, 612, None
+C -> T, 1, 1672160, 1672160, 0.792, SNP (transition), , , , 
+G -> A, 1, 1761784, 1761784, 0.753, SNP (transition), D -> N, CDS, 338, Substitution
+C -> T, 1, 1785026, 1785026, 0.664, SNP (transition), D -> N, CDS, 351, Substitution
+T -> A, 1, 1691744, 1691744, 0.812, SNP (transversion), , CDS, 625, None
+C -> A, 1, 1691723, 1691723, 0.832, SNP (transversion), , CDS, 618, None
+T -> C, 1, 1672175, 1672175, 0.683, SNP (transition), , , , 
+A -> G, 1, 1761974, 1761974, 0.574, SNP (transition), E -> G, CDS, 401, Substitution
+G -> A, 1, 1761823, 1761823, 0.634, SNP (transition), D -> N, CDS, 351, Substitution
+C -> T, 1, 1672187, 1672187, 0.607, SNP (transition), , , , 
+T -> C, 1, 1790915, 1790915, 0.539, SNP (transition), E -> G, CDS, 401, Substitution
+T -> C, 1, 1672193, 1672193, 0.601, SNP (transition), , , , 
+A -> G, 1, 1761833, 1761833, 0.55, SNP (transition), H -> R, CDS, 354, Substitution
+G -> C, 1, 1761849, 1761849, 0.517, SNP (transversion), L -> F, CDS, 359, Substitution
+A -> G, 1, 1761841, 1761841, 0.535, SNP (transition), K -> E, CDS, 357, Substitution
+T -> C, 1, 1784875, 1784875, 0.608, SNP (transition), E -> G, CDS, 401, Substitution
+A -> G, 1, 1785040, 1785040, 0.451, SNP (transition), I -> T, CDS, 346, Substitution
+T -> A, 1, 1672208, 1672208, 0.507, SNP (transversion), , , , 
+A -> T, 1, 1785038, 1785038, 0.432, SNP (transversion), F -> I, CDS, 347, Substitution
+T -> C, 1, 1785008, 1785008, 0.376, SNP (transition), K -> E, CDS, 357, Substitution
+T -> C, 1, 1769224, 1769224, 0.407, SNP (transition), S -> P, CDS, 805, Substitution
+T -> C, 1, 1785016, 1785016, 0.363, SNP (transition), H -> R, CDS, 354, Substitution
+C -> A, 1, 1785030, 1785030, 0.394, SNP (transversion), M -> I, CDS, 349, Substitution
+G -> A, 1, 1785033, 1785033, 0.411, SNP (transition), , CDS, 348, None
+C -> T, 1, 1771581, 1771581, 0.336, SNP (transition), , CDS, 585, None
+A -> G, 1, 1762339, 1762339, 0.361, SNP (transition), N -> D, CDS, 523, Substitution
+C -> G, 1, 1791040, 1791040, 0.524, SNP (transversion), L -> F, CDS, 359, Substitution
+A -> G, 2, 1568019, 1568019, 0.995, SNP (transition), , , , 
+G -> A, 2, 594134, 594134, 1.0, SNP (transition), , CDS, 196, None
+G -> A, 2, 43685, 43685, 0.709, SNP (transition), T -> I, CDS, 181, Substitution
+G -> T, 2, 43666, 43666, 0.658, SNP (transversion), , CDS, 187, None
+C -> T, 2, 594173, 594173, 0.642, SNP (transition), , CDS, 209, None
+G -> T, 2, 594274, 594274, 0.564, SNP (transversion), G -> V, CDS, 243, Substitution
+G -> C, 2, 1558511, 1558511, 0.713, SNP (transversion), , , , 
+C -> T, 2, 1575609, 1575609, 0.46, SNP (transition), , , , 
+A -> G, 2, 1580330, 1580330, 0.839, SNP (transition), , , , 
+C -> T, 2, 1580370, 1580370, 0.635, SNP (transition), , , , 
+A -> C, 2, 1571357, 1571357, 0.397, SNP (transversion), , , , 
+T -> G, 2, 34, 34, 0.527, SNP (transversion), , , , 
+G -> C, 2, 33, 33, 0.519, SNP (transversion), , , , 
+A -> C, 2, 1571375, 1571375, 0.328, SNP (transversion), , , , 
+T -> C, 2, 30, 30, 0.449, SNP (transition), , , , 
+T -> C, 2, 1580345, 1580345, 0.297, SNP (transition), , , , 
+G -> T, 2, 36, 36, 0.376, SNP (transversion), , , , 
+C -> T, 2, 39, 39, 0.358, SNP (transition), , , , 
+C -> A, 2, 1571706, 1571706, 0.352, SNP (transversion), , , , 
+T -> G, 3, 12860, 12860, 0.991, SNP (transversion), , , , 
+C -> T, 3, 1407, 1407, 0.927, SNP (transition), , , , 
+C -> T, 3, 1304641, 1304641, 0.844, SNP (transition), , , , 
+A -> G, 3, 1301032, 1301032, 0.748, SNP (transition), , , , 
+C -> T, 3, 1297095, 1297095, 0.771, SNP (transition), , , , 
+C -> T, 3, 1305491, 1305491, 0.614, SNP (transition), , , , 
+A -> T, 3, 1297314, 1297314, 0.595, SNP (transversion), , , , 
+A -> C, 3, 1297132, 1297132, 0.593, SNP (transversion), , , , 
+A -> C, 3, 1272343, 1272343, 0.61, SNP (transversion), , , , 
+C -> T, 3, 1301043, 1301043, 0.689, SNP (transition), , , , 
+A -> T, 3, 1277253, 1277253, 0.55, SNP (transversion), , , , 
+C -> T, 3, 1270215, 1270215, 0.548, SNP (transition), , , , 
+G -> C, 3, 1270231, 1270231, 0.532, SNP (transversion), , , , 
+A -> G, 3, 1285713, 1285713, 0.609, SNP (transition), , , , 
+T -> G, 3, 1304103, 1304103, 0.551, SNP (transversion), , , , 
+C -> T, 3, 1283062, 1283062, 0.435, SNP (transition), , , , 
+C -> T, 3, 1303486, 1303486, 0.431, SNP (transition), , , , 
+T -> A, 3, 1303991, 1303991, 0.429, SNP (transversion), , , , 
+A -> T, 3, 1281493, 1281493, 0.427, SNP (transversion), , , , 
+C -> T, 3, 1272308, 1272308, 0.535, SNP (transition), , , , 
+T -> A, 3, 1297635, 1297635, 0.583, SNP (transversion), , , , 
+A -> T, 3, 1272325, 1272325, 0.668, SNP (transversion), , , , 
+G -> T, 3, 1304109, 1304109, 0.545, SNP (transversion), , , , 
+A -> T, 3, 1297664, 1297664, 0.438, SNP (transversion), , , , 
+A -> C, 3, 1298515, 1298515, 0.664, SNP (transversion), , , , 
+T -> C, 3, 1298523, 1298523, 0.621, SNP (transition), , , , 
+T -> A, 3, 1231775, 1231775, 0.392, SNP (transversion), , , , 
+C -> T, 3, 1282133, 1282133, 0.392, SNP (transition), , , , 
+T -> C, 3, 1301865, 1301865, 0.588, SNP (transition), , , , 
+C -> T, 3, 1305425, 1305425, 0.525, SNP (transition), , , , 
+C -> T, 3, 1298284, 1298284, 0.439, SNP (transition), , , , 
+C -> A, 3, 1294644, 1294644, 0.394, SNP (transversion), , , , 
+C -> A, 3, 1299653, 1299653, 0.373, SNP (transversion), , , , 
+G -> C, 3, 1267537, 1267537, 0.371, SNP (transversion), , , , 
+A -> C, 3, 1303082, 1303082, 0.373, SNP (transversion), , , , 
+G -> T, 3, 1271491, 1271491, 0.532, SNP (transversion), , , , 
+A -> T, 3, 1306055, 1306055, 0.362, SNP (transversion), , , , 
+A -> T, 3, 1297084, 1297084, 0.362, SNP (transversion), , , , 
+T -> A, 3, 1298081, 1298081, 0.361, SNP (transversion), , , , 
+C -> A, 3, 1296359, 1296359, 0.36, SNP (transversion), , , , 
+C -> T, 3, 1278820, 1278820, 0.42, SNP (transition), , , , 
+C -> T, 3, 1301909, 1301909, 0.529, SNP (transition), , , , 
+A -> C, 3, 1269016, 1269016, 0.596, SNP (transversion), , , , 
+A -> T, 3, 1274808, 1274808, 0.364, SNP (transversion), , , , 
+C -> T, 3, 1300092, 1300092, 0.477, SNP (transition), , , , 
+A -> C, 3, 1687, 1687, 0.436, SNP (transversion), , , , 
+G -> C, 3, 1281159, 1281159, 0.384, SNP (transversion), , , , 
+A -> C, 3, 1285141, 1285141, 0.63, SNP (transversion), , , , 
+T -> C, 3, 1295229, 1295229, 0.673, SNP (transition), , , , 
+G -> C, 3, 1278433, 1278433, 0.355, SNP (transversion), , , , 
+T -> C, 3, 1296367, 1296367, 0.342, SNP (transition), , , , 
+C -> T, 3, 1294698, 1294698, 0.341, SNP (transition), , , , 
+A -> T, 3, 1296934, 1296934, 0.338, SNP (transversion), , , , 
+C -> A, 3, 1270117, 1270117, 0.388, SNP (transversion), , , , 
+T -> A, 3, 1265660, 1265660, 0.569, SNP (transversion), , , , 
+A -> C, 3, 1297682, 1297682, 0.357, SNP (transversion), , , , 
+A -> C, 3, 1270252, 1270252, 0.407, SNP (transversion), , , , 
+T -> A, 3, 1305647, 1305647, 0.429, SNP (transversion), , , , 
+G -> T, 3, 1278397, 1278397, 0.324, SNP (transversion), , , , 
+T -> C, 3, 1299661, 1299661, 0.324, SNP (transition), , , , 
+A -> T, 3, 1293686, 1293686, 0.385, SNP (transversion), , , , 
+T -> G, 3, 1271256, 1271256, 0.598, SNP (transversion), , , , 
+C -> T, 3, 1277046, 1277046, 0.417, SNP (transition), , , , 
+T -> C, 3, 1266422, 1266422, 0.317, SNP (transition), , , , 
+A -> C, 3, 1293795, 1293795, 0.367, SNP (transversion), , , , 
+A -> T, 3, 1285664, 1285664, 0.474, SNP (transversion), , , , 
+C -> T, 3, 1283107, 1283107, 0.322, SNP (transition), , , , 
+C -> G, 3, 1293907, 1293907, 0.475, SNP (transversion), , , , 
+T -> A, 3, 1270103, 1270103, 0.311, SNP (transversion), , , , 
+C -> A, 3, 1285632, 1285632, 0.311, SNP (transversion), , , , 
+C -> T, 3, 1297690, 1297690, 0.332, SNP (transition), , , , 
+A -> C, 3, 1279036, 1279036, 0.593, SNP (transversion), , , , 
+G -> A, 3, 1303237, 1303237, 0.308, SNP (transition), , , , 
+T -> A, 3, 1275702, 1275702, 0.307, SNP (transversion), , , , 
+G -> T, 3, 1278668, 1278668, 0.306, SNP (transversion), , , , 
+A -> G, 3, 1278669, 1278669, 0.306, SNP (transition), , , , 
+G -> A, 3, 1675, 1675, 0.338, SNP (transition), , , , 
+C -> T, 3, 1303239, 1303239, 0.542, SNP (transition), , , , 
+T -> C, 3, 1285685, 1285685, 0.341, SNP (transition), , , , 
+T -> A, 3, 1283398, 1283398, 0.896, SNP (transversion), , , , 
+T -> C, 3, 1275867, 1275867, 0.288, SNP (transition), , , , 
+A -> T, 3, 1271584, 1271584, 0.421, SNP (transversion), , , , 
+G -> A, 3, 1276359, 1276359, 0.35, SNP (transition), , , , 
+G -> A, 3, 1305665, 1305665, 0.417, SNP (transition), , , , 
+T -> A, 3, 1305780, 1305780, 0.307, SNP (transversion), , , , 
+T -> A, 3, 1270244, 1270244, 0.473, SNP (transversion), , , , 
+C -> T, 3, 1274277, 1274277, 0.546, SNP (transition), , , , 
+T -> C, 3, 1276006, 1276006, 0.275, SNP (transition), , , , 
+C -> A, 3, 1302555, 1302555, 0.275, SNP (transversion), , , , 
+A -> C, 3, 1305372, 1305372, 0.411, SNP (transversion), , , , 
+C -> T, 3, 1281233, 1281233, 0.364, SNP (transition), , , , 
+A -> C, 3, 1278658, 1278658, 0.386, SNP (transversion), , , , 
+T -> A, 3, 1297268, 1297268, 0.33, SNP (transversion), , , , 
+C -> T, 3, 1303506, 1303506, 0.399, SNP (transition), , , , 
+A -> T, 3, 1281790, 1281790, 0.313, SNP (transversion), , , , 
+C -> T, 3, 1269680, 1269680, 0.309, SNP (transition), , , , 
+T -> A, 3, 1285133, 1285133, 0.521, SNP (transversion), , , , 
+C -> T, 3, 1301336, 1301336, 0.346, SNP (transition), , , , 
+T -> C, 3, 1270007, 1270007, 0.303, SNP (transition), , , , 
+A -> T, 3, 1272202, 1272202, 0.343, SNP (transversion), , , , 
+C -> A, 3, 1271503, 1271503, 0.31, SNP (transversion), , , , 
+C -> T, 3, 1277859, 1277859, 0.277, SNP (transition), , , , 
+T -> A, 3, 1279729, 1279729, 0.415, SNP (transversion), , , , 
+C -> T, 3, 1269457, 1269457, 0.255, SNP (transition), , , , 
+A -> T, 3, 1278401, 1278401, 0.381, SNP (transversion), , , , 
+T -> C, 3, 1280575, 1280575, 0.297, SNP (transition), , , , 
+G -> C, 3, 1266012, 1266012, 0.409, SNP (transversion), , , , 
+A -> C, 3, 1298208, 1298208, 0.364, SNP (transversion), , , , 
+A -> T, 3, 1298200, 1298200, 0.475, SNP (transversion), , , , 
+C -> A, 4, 172, 172, 0.993, SNP (transversion), , , , 
+T -> A, 4, 40090, 40090, 0.989, SNP (transversion), , , , 
+A -> G, 4, 1046247, 1046247, 1.0, SNP (transition), , , , 
+T -> C, 4, 1046251, 1046251, 0.993, SNP (transition), , , , 
+T -> C, 4, 40118, 40118, 0.985, SNP (transition), , , , 
+T -> A, 4, 51502, 51502, 0.987, SNP (transversion), , , , 
+T -> C, 4, 51530, 51530, 0.993, SNP (transition), , , , 
+A -> T, 4, 55430, 55430, 0.916, SNP (transversion), , , , 
+T -> A, 4, 305815, 305815, 0.915, SNP (transversion), I -> L, CDS, 1611, Substitution
+T -> C, 4, 261619, 261619, 0.896, SNP (transition), F -> L, CDS, 69, Substitution
+A -> G, 4, 90483, 90483, 0.652, SNP (transition), , CDS, 2045, None
+A -> G, 4, 19189, 19189, 0.547, SNP (transition), , CDS, 1188, None
+T -> A, 4, 1043600, 1043600, 0.625, SNP (transversion), , , , 
+A -> C, 4, 1043520, 1043520, 0.513, SNP (transversion), , , , 
+T -> C, 4, 106675, 106675, 0.444, SNP (transition), , , , 
+C -> G, 4, 106678, 106678, 0.45, SNP (transversion), , , , 
+T -> C, 4, 106663, 106663, 0.409, SNP (transition), , , , 
+C -> A, 4, 72195, 72195, 0.336, SNP (transversion), G -> W, CDS, 2705, Substitution
+C -> T, 4, 1042547, 1042547, 0.342, SNP (transition), , , , 
+T -> C, 4, 438901, 438901, 0.344, SNP (transition), N -> S, CDS, 778, Substitution
+C -> A, 4, 80053, 80053, 0.316, SNP (transversion), G -> W, CDS, 992, Substitution
+T -> C, 4, 435802, 435802, 0.354, SNP (transition), N -> S, CDS, 778, Substitution
+A -> G, 5, 335476, 335476, 1.0, SNP (transition), E -> G, CDS, 388, Substitution
+G -> T, 5, 38121, 38121, 0.994, SNP (transversion), , , , 
+C -> A, 5, 239, 239, 0.962, SNP (transversion), , , , 
+A -> G, 5, 38097, 38097, 0.969, SNP (transition), , , , 
+G -> A, 5, 58006, 58006, 0.626, SNP (transition), , , , 
+C -> G, 5, 335583, 335583, 0.577, SNP (transversion), Q -> E, CDS, 424, Substitution
+T -> G, 5, 335597, 335597, 0.469, SNP (transversion), , CDS, 428, None
+C -> G, 5, 335603, 335603, 0.468, SNP (transversion), , CDS, 430, None
+C -> A, 5, 32974, 32974, 0.531, SNP (transversion), , , , 
+G -> A, 5, 32864, 32864, 0.332, SNP (transition), , , , 
+T -> G, 5, 58064, 58064, 0.312, SNP (transversion), , , , 
+T -> G, 5, 32932, 32932, 0.331, SNP (transversion), , , , 
+G -> A, 5, 32847, 32847, 0.304, SNP (transition), , , , 
+G -> T, 5, 32872, 32872, 0.367, SNP (transversion), , , , 
+G -> C, 1, 1676470, 1676470, 0.322, SNP (transversion), E -> D, CDS, 182, Substitution
+T -> C, 1, 1791056, 1791056, 0.411, SNP (transition), H -> R, CDS, 354, Substitution
+T -> A, 2, 24589, 24589, 0.991, SNP (transversion), , CDS, 37, None
+A -> C, 2, 1575856, 1575856, 0.438, SNP (transversion), , , , 
+C -> T, 3, 1269071, 1269071, 0.861, SNP (transition), , , , 
+A -> C, 3, 1279647, 1279647, 0.846, SNP (transversion), , , , 
+A -> C, 3, 1279564, 1279564, 0.763, SNP (transversion), , , , 
+A -> C, 3, 1268970, 1268970, 0.755, SNP (transversion), , , , 
+C -> T, 3, 1279673, 1279673, 0.929, SNP (transition), , , , 
+A -> T, 3, 1271833, 1271833, 0.748, SNP (transversion), , , , 
+A -> T, 3, 1285624, 1285624, 0.556, SNP (transversion), , , , 
+C -> T, 3, 1270181, 1270181, 0.544, SNP (transition), , , , 
+A -> T, 3, 1267838, 1267838, 0.536, SNP (transversion), , , , 
+C -> T, 3, 1285640, 1285640, 0.516, SNP (transition), , , , 
+A -> T, 3, 1279028, 1279028, 0.468, SNP (transversion), , , , 
+A -> G, 3, 1283425, 1283425, 0.468, SNP (transition), , , , 
+C -> T, 3, 1294628, 1294628, 0.453, SNP (transition), , , , 
+C -> T, 3, 1283752, 1283752, 0.432, SNP (transition), , , , 
+C -> T, 3, 1270170, 1270170, 0.409, SNP (transition), , , , 
+A -> T, 3, 1301209, 1301209, 0.523, SNP (transversion), , , , 
+T -> A, 3, 1284369, 1284369, 0.42, SNP (transversion), , , , 
+C -> A, 3, 1278365, 1278365, 0.375, SNP (transversion), , , , 
+C -> T, 3, 1264738, 1264738, 0.444, SNP (transition), , , , 
+C -> T, 3, 1270768, 1270768, 0.35, SNP (transition), , , , 
+G -> C, 3, 1265234, 1265234, 0.37, SNP (transversion), , , , 
+C -> A, 3, 1293919, 1293919, 0.415, SNP (transversion), , , , 
+G -> A, 3, 1265236, 1265236, 0.349, SNP (transition), , , , 
+A -> T, 3, 1265237, 1265237, 0.338, SNP (transversion), , , , 
+A -> T, 3, 1293720, 1293720, 0.555, SNP (transversion), , , , 
+C -> T, 3, 1283258, 1283258, 0.572, SNP (transition), , , , 
+C -> A, 3, 1279737, 1279737, 0.425, SNP (transversion), , , , 
+A -> C, 3, 1265238, 1265238, 0.331, SNP (transversion), , , , 
+A -> G, 3, 1293930, 1293930, 0.289, SNP (transition), , , , 
+C -> A, 3, 1283295, 1283295, 0.288, SNP (transversion), , , , 
+A -> T, 3, 1276521, 1276521, 0.382, SNP (transversion), , , , 
+T -> A, 3, 1265239, 1265239, 0.306, SNP (transversion), , , , 
+A -> T, 3, 1265242, 1265242, 0.271, SNP (transversion), , , , 
+A -> T, 3, 1281778, 1281778, 0.271, SNP (transversion), , , , 
+A -> T, 3, 1305795, 1305795, 0.317, SNP (transversion), , , , 
+T -> A, 3, 1265241, 1265241, 0.287, SNP (transversion), , , , 
+C -> T, 3, 1265666, 1265666, 0.306, SNP (transition), , , , 
+G -> C, 3, 1271572, 1271572, 0.405, SNP (transversion), , , , 
+C -> A, 3, 1282776, 1282776, 0.293, SNP (transversion), , , , 
+A -> T, 3, 1302419, 1302419, 0.387, SNP (transversion), , , , 
+T -> C, 4, 84872, 84872, 0.971, SNP (transition), , , , 
+A -> G, 4, 1041250, 1041250, 0.523, SNP (transition), , , , 
+A -> C, 4, 1041248, 1041248, 0.517, SNP (transversion), , , , 
+T -> C, 4, 1041243, 1041243, 0.516, SNP (transition), , , , 
+G -> T, 4, 1041254, 1041254, 0.514, SNP (transversion), , , , 
+A -> G, 4, 1041255, 1041255, 0.512, SNP (transition), , , , 
+C -> T, 4, 1042327, 1042327, 0.51, SNP (transition), , , , 
+C -> T, 4, 1041199, 1041199, 0.444, SNP (transition), , , , 
+A -> T, 4, 1041310, 1041310, 0.403, SNP (transversion), , , , 
+A -> C, 4, 1042279, 1042279, 0.441, SNP (transversion), , , , 
+A -> G, 4, 1041474, 1041474, 0.376, SNP (transition), , , , 
+C -> T, 4, 1042298, 1042298, 0.332, SNP (transition), , , , 
+C -> T, 4, 1043504, 1043504, 0.326, SNP (transition), , , , 
+C -> A, 4, 1043598, 1043598, 0.327, SNP (transversion), , , , 
+

@@ -1,0 +1,15 @@
+Change, Chromosome, Minimum, Maximum, Variant Frequency, Polymorphism Type, Amino Acid Change, CDS, CDS Codon Number, Protein Effect
+C -> A, 1, 1788781, 1788781, 0.867, SNP (transversion), K -> N, CDS, 106, Substitution
+C -> T, 3, 1271838, 1271838, 1.0, SNP (transition), , , , 
+T -> C, 3, 934, 934, 0.947, SNP (transition), , , , 
+A -> C, 3, 942, 942, 0.939, SNP (transversion), , , , 
+G -> T, 3, 990, 990, 0.909, SNP (transversion), , , , 
+T -> A, 3, 1271836, 1271836, 0.888, SNP (transversion), , , , 
+T -> A, 3, 943, 943, 0.848, SNP (transversion), , , , 
+C -> T, 3, 941, 941, 0.845, SNP (transition), , , , 
+A -> C, 3, 949, 949, 0.842, SNP (transversion), , , , 
+A -> C, 3, 945, 945, 0.838, SNP (transversion), , , , 
+T -> A, 3, 989, 989, 0.835, SNP (transversion), , , , 
+G -> T, 3, 946, 946, 0.824, SNP (transversion), , , , 
+G -> A, 5, 50516, 50516, 0.936, SNP (transition), , , , 
+T -> G, 5, 50579, 50579, 0.884, SNP (transversion), , , , 
